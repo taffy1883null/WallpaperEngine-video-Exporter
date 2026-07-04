@@ -21,11 +21,15 @@
 
 ---
 
-##  环境要求
+## 环境要求
 
 - **.NET 8.0 SDK** 或更高版本
 - 操作系统：Windows (涉及本地 Steam 默认路径操作)
 
 ---
 
-
+## 配置
+- 程序默认配置了以下路径：
+- 
+  -Steam 创意工坊壁纸目录`D:\SteamLibrary\steamapps\workshop\content\431960`
+  -导出目录`D:\WallpaperEngineExport`

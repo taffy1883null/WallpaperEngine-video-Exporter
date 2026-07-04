@@ -30,6 +30,5 @@
 
 ## 配置
 - 程序默认配置了以下路径：
-  
   -Steam 创意工坊壁纸目录`D:\SteamLibrary\steamapps\workshop\content\431960`
   -导出目录`D:\WallpaperEngineExport`

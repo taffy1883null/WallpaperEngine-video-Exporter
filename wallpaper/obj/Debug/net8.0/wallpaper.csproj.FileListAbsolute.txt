@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\bin\Debug\net8.0\wallpaper.exe
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\bin\Debug\net8.0\wallpaper.deps.json
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\bin\Debug\net8.0\wallpaper.runtimeconfig.json
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\bin\Debug\net8.0\wallpaper.dll
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\bin\Debug\net8.0\wallpaper.pdb
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.dll
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\refint\wallpaper.dll
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.pdb
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\wallpaper.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\wallpaper\wallpaper\obj\Debug\net8.0\ref\wallpaper.dll

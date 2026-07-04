@@ -16,7 +16,7 @@ namespace WallpaperEngineExporter
 
             string sourcePath = @"D:\SteamLibrary\steamapps\workshop\content\431960";
             // 优化 3：将导出的文件统一放入新建的 WallpaperEngineExport 文件夹
-            string exportPath = @"C:\Users\Administrator\Downloads\WallpaperEngineExport";
+            string exportPath = @"D:\WallpaperEngineExport";
 
             // 1. 扫描壁纸
             var wallpapers = ScanWallpapers(sourcePath);

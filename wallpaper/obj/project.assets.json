@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-Exporter\\wallpaper\\wallpaper.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-video-Exporter\\wallpaper\\wallpaper.csproj",
       "projectName": "wallpaper",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-Exporter\\wallpaper\\wallpaper.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-video-Exporter\\wallpaper\\wallpaper.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-Exporter\\wallpaper\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-video-Exporter\\wallpaper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-Exporter\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-video-Exporter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1A9A8BC-9208-4A63-86F2-CE613DD4AD0C}|wallpaper\\wallpaper.csproj|c:\\users\\administrator\\source\\repos\\wallpaperengine-exporter\\wallpaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1A9A8BC-9208-4A63-86F2-CE613DD4AD0C}|wallpaper\\wallpaper.csproj|c:\\users\\administrator\\source\\repos\\wallpaperengine-video-exporter\\wallpaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1A9A8BC-9208-4A63-86F2-CE613DD4AD0C}|wallpaper\\wallpaper.csproj|solutionrelative:wallpaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-Exporter\\wallpaper\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-video-Exporter\\wallpaper\\Program.cs",
               "RelativeDocumentMoniker": "wallpaper\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-Exporter\\wallpaper\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WallpaperEngine-video-Exporter\\wallpaper\\Program.cs",
               "RelativeToolTip": "wallpaper\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-04T04:14:48.184Z",
               "EditorCaption": ""

@@ -7,7 +7,7 @@
 ---
 
 ##  快速上手
-- 安装release里的exe即可
+- 安装release里的zip即可
 
 ---
 ##  特性

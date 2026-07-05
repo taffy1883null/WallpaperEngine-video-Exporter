@@ -1,3 +1,4 @@
+[English](README.md) | [简体中文](README_zh.md)
 #  Wallpaper Engine Exporter CLI
 
 一个轻量、极简且高效的纯 C# 命令行工具，用于交互式扫描并导出 Steam Wallpaper Engine（壁纸引擎）中的视频文件
